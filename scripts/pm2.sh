@@ -4,7 +4,7 @@ set -a
 source .env
 set +a
 
-LOG_ROOT=logs/
+LOG_ROOT=/root/pockethost/logs/
 # DAEMON_PREFIX=daemon
 # DAEMON_LOG=$LOG_ROOT/$DAEMON_PREFIX.log
 # RESTART_DATE=`date +%s`
