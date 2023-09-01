@@ -1,0 +1,1 @@
+sudo certbot certonly --agree-tos --nginx --email pb@ameto.cc -d $SUBDOMAIN.ameto.cc
